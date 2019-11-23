@@ -1,0 +1,1 @@
+{'first_name': 'Antonio', 'last_name': 'Garcia', 'height_cm': 172.0, 'weight_kg': 61.0, 'goals': 300, 'yellow_cards': 20, 'red_cards': 34}
